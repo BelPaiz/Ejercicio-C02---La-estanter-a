@@ -1,0 +1,15 @@
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02 - La estanteria\bin\Debug\net6.0\Ejercicio C02 - La estanteria.exe
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02 - La estanteria\bin\Debug\net6.0\Ejercicio C02 - La estanteria.deps.json
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02 - La estanteria\bin\Debug\net6.0\Ejercicio C02 - La estanteria.runtimeconfig.json
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02 - La estanteria\bin\Debug\net6.0\Ejercicio C02 - La estanteria.dll
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02 - La estanteria\bin\Debug\net6.0\Ejercicio C02 - La estanteria.pdb
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02 - La estanteria\obj\Debug\net6.0\Ejercicio C02 - La estanteria.csproj.AssemblyReference.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02 - La estanteria\obj\Debug\net6.0\Ejercicio C02 - La estanteria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02 - La estanteria\obj\Debug\net6.0\Ejercicio C02 - La estanteria.AssemblyInfoInputs.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02 - La estanteria\obj\Debug\net6.0\Ejercicio C02 - La estanteria.AssemblyInfo.cs
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02 - La estanteria\obj\Debug\net6.0\Ejercicio C02 - La estanteria.csproj.CoreCompileInputs.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02 - La estanteria\obj\Debug\net6.0\Ejercicio C02 - La estanteria.dll
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02 - La estanteria\obj\Debug\net6.0\refint\Ejercicio C02 - La estanteria.dll
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02 - La estanteria\obj\Debug\net6.0\Ejercicio C02 - La estanteria.pdb
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02 - La estanteria\obj\Debug\net6.0\Ejercicio C02 - La estanteria.genruntimeconfig.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C02 - La estanteria\obj\Debug\net6.0\ref\Ejercicio C02 - La estanteria.dll
